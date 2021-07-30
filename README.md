@@ -1,5 +1,5 @@
 # Usb_bootable
-Make Usb bootable for Windows and Linux OS
+Make Usb bootable for Windows and Linux OS using Powershell
 
 
 * CREER UNE CLEF USB BOOTABLE
